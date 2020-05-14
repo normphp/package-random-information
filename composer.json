@@ -1,8 +1,8 @@
 {
-    "name": "pizepei/random-information",
+    "name": "normphp/random-information",
     "description": "normative",
     "keywords": ["随机","random","昵称","nickname","头像","head portrait"],
-    "homepage": "https://org.heil.top/",
+    "homepage": "https://normphp.org",
     "authors": [
         {
             "name": "pizepei",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "pizepei\\randomInformation\\": "src/"
+            "normphp\\randomInformation\\": "src/"
         }
     }
 }
