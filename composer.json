@@ -9,7 +9,6 @@
             "email": "pizepei@pizepei.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=6.0.0",
         "ext-json": "*"
