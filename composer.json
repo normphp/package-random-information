@@ -1,5 +1,5 @@
 {
-    "name": "normphp/random-information",
+    "name": "normphp-package/random-information",
     "description": "normative",
     "keywords": ["随机","random","昵称","nickname","头像","head portrait"],
     "homepage": "https://normphp.org",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "normphp\\randomInformation\\": "src/"
+            "normphpPackage\\randomInformation\\": "src/"
         }
     }
 }
