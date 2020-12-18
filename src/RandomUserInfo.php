@@ -6,7 +6,7 @@
  * Time: 14:45
  * @title 随机生成用户信息
  */
-namespace normphp\randomInformation;
+namespace normphpPackage\randomInformation;
 
 class RandomUserInfo
 {
